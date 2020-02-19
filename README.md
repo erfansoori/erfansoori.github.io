@@ -1,1 +1,1 @@
-personal page repo
+personal page repository
